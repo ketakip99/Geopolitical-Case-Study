@@ -3,11 +3,6 @@
 ## Overview
 This case study conducts a deep statistical analysis of conflict-related fatalities from 2000 to 2023. Using descriptive and inferential techniques, it uncovers trends related to age, gender, region, and conflict patterns.
 
-## Team
-- Ketaki Paranjape
-- Rajasi Barapatre  
-- Sanika Chavan
-
 ## Dataset
 - Source: Kaggle  
 - Records: 11,124 entries  
